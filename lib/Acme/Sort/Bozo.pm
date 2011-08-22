@@ -1,6 +1,6 @@
 package Acme::Sort::Bozo;
 
-use v5.10;
+use 5.010;
 
 use strict;
 use warnings;
@@ -12,7 +12,7 @@ use List::Util qw/shuffle/;
 
 our @EXPORT = qw/bozo/;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 
 
@@ -85,7 +85,7 @@ Acme::Sort::Bozo - Implementation of a Bozo sort algorithm.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.04
 
 =head1 SYNOPSIS
 
