@@ -12,7 +12,7 @@ use List::Util qw/shuffle/;
 
 our @EXPORT = qw/bozo/;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 
 
@@ -85,7 +85,7 @@ Acme::Sort::Bozo - Implementation of a Bozo sort algorithm.
 
 =head1 VERSION
 
-Version 0.04
+Version 0.05
 
 =head1 SYNOPSIS
 
